@@ -1,2 +1,2 @@
 # corsera-course-
-Python for Alk
+Python for All by university of mitchigan
